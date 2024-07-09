@@ -116,7 +116,7 @@ class MainActivity : ComponentActivity() {
 
                         //Text button
                         TextButton(onClick = {
-                            println("Button is Clicked") //3
+                            println("Button is Clicked ") //3
                         }) {
                             Text("Add to Cart")
                         }
